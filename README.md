@@ -32,4 +32,4 @@ Spring Framework Documentation
 
 Spring Boot Documentation
 
-Spring Data JPA Documentatio
+Spring Data JPA Documentation
